@@ -1,6 +1,8 @@
 ## G'day
 
-19 y/o Computer Science undergrad with a interest in system level programming, security, and cryptography
+19 y/o Computer Science undergrad at Ohio University!
+
+My favorite languages are: C/C++, Rust, and Python.
 
 [![Dlambda0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dlambda0&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
